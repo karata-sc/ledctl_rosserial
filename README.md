@@ -1,5 +1,5 @@
 # ledctl_rosserial
 rosserialのサンプルプログラム
 
-※訂正前の配布スライドだと`sub_stm32.cpp`が`nucleo_rosserial.cpp`と書いてあるかもしれません
+※訂正前の配布スライドだと`sub_stm32.cpp`のことを`nucleo_rosserial.cpp`と呼んでいるかもしれません
 （ファイルの中身は同じです）

@@ -1,8 +1,13 @@
 # ledctl_rosserial
-rosserialのサンプルプログラム
 
-※訂正前の配布スライドだと`sub_stm32.cpp`のことを間違えて`nucleo_rosserial.cpp`と書いてあるかもしれません
+---
+概要
+---
+rosserialのサンプルプログラムです．
+訂正前の配布スライドだと`sub_stm32.cpp`のことを間違えて`nucleo_rosserial.cpp`と書いてあるかもしれません
 
+---
++α
 ---
 
 サンプルプログラムだとMessage型に`std_msgs/Int16`を使っていますが，他にもいろいろ便利なMessage型があるので見てみてください．

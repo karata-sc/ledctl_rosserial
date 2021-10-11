@@ -3,13 +3,13 @@ rosserialのサンプルプログラム
 
 `std_msgs`は`Int16`以外にもいろいろなMessage型があるので見てみてください
 
-http://wiki.ros.org/std_msgs
+* http://wiki.ros.org/std_msgs
 
-色情報とかなら`std_msgs/ColorRGBA`の方が分かりやすいと思います
+色情報とかなら`std_msgs/ColorRGBA`が分かりやすいと思います
 
 パッケージ`geometry_msgs`ならもっとロボット向きの型がたくさんあります
 
-http://wiki.ros.org/geometry_msgs
+* http://wiki.ros.org/geometry_msgs
 
 `geometry_msgs/Accel`とか`geometry_msgs/Twist`とかよさそうです
 

@@ -11,7 +11,7 @@ rosserialのサンプルプログラムです．
 +α
 ---
 
-サンプルプログラムだとMessage型に`std_msgs/Int16`を使っていますが，他にもいろいろ便利なMessage型があるので調べてみてください．
+サンプルプログラムだとMessage型に`std_msgs/Int16`を使っていますが，他にもいろいろ便利なMessage型があるので調べてみてください
 
 色情報をやり取りするなら`std_msgs/ColorRGBA`が使いやすいと思います
 
@@ -20,4 +20,5 @@ rosserialのサンプルプログラムです．
 `geometry_msgs`をインポートすれば，よりロボット向きの型が使えます
 
 `geometry_msgs/Accel`とか`geometry_msgs/Twist`とかモータ制御によさそうです
+
 ・http://wiki.ros.org/geometry_msgs 

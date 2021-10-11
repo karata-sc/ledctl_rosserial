@@ -3,7 +3,7 @@ rosserialのサンプルプログラム
 
 `std_msgs`は`Int16`以外にもいろいろなMessage型があるので見てみてください
 
-色情報とかなら`std_msgs/ColorRGBA`が分かりやすいと思います
+色情報とかなら`std_msgs/ColorRGBA`が使いやすいと思います
 
 * http://wiki.ros.org/std_msgs
 

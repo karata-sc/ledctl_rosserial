@@ -11,7 +11,6 @@ rosserialのサンプルプログラムです．
 +α
 ---
 
-
 サンプルプログラムだとMessage型に`std_msgs/Int16`を使っていますが，他にもいろいろ便利なMessage型があるので調べてみてください
 
 色情報をやり取りするなら`std_msgs/ColorRGBA`が使いやすいと思います
